@@ -18,9 +18,6 @@ Proteome annotation was done in python via NCBI download [2], Diamond protein se
 - tqdm
 - zipfile
 
-## Contact
-Email: t.pietsch@campus.tu-berlin.de
-
 ## References
 
 1. Rappsilber Laboratory https://www.rappsilberlab.org/,  https://github.com/Rappsilber-Laboratory
