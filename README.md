@@ -1,7 +1,7 @@
 # Proteome-annotation
 This repository is the result of a four week internship at the Rappsilber Laboratory [1].
 
-Proteome annotation was done in python via NCBI download [2], Diamond protein sequence alignment [3], and foldseek structural alignment [4]. Genome annotation was started but not finished and contains only a genome download script.
+Proteome annotation was done in python via NCBI download [2], Diamond protein sequence alignment [3], and Foldseek structural alignment [4]. Genome annotation was started but not finished and contains only a genome download script.
 
 ## Required packages
 - argparse
