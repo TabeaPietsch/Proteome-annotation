@@ -15,12 +15,12 @@ It is assumed that foldseek results are one or more tsv files with the following
 11. evalue
 12. bits: alignment score
 
-1. filter_foldseek_results.py:
+# filter_foldseek_results.py
 
-    To filter the multiple results per accession, e-values higher than 10^-5 are eliminated. The best match per accession
-    is then selected by sorting all remaining results per accession for their bit score and align length and saving the
-    best score.
+To filter the multiple results per accession, e-values higher than 10^-5 are eliminated. The best match per accession
+is then selected by sorting all remaining results per accession for their bit score and align length and saving the
+best score.
 
-    Command line usage:
-        Please follow the input prompts and use integers for the first question of how many files to process.
+### Command line usage:
+Please follow the input prompts and use integers for the first question of how many files to process.
         
