@@ -18,13 +18,6 @@ Proteome annotation was done in python via NCBI download [2], Diamond protein se
 - tqdm
 - zipfile
 
-## References
-
-1. Rappsilber Laboratory https://www.rappsilberlab.org/,  https://github.com/Rappsilber-Laboratory
-2. NCBI Datasets v2 REST API https://www.ncbi.nlm.nih.gov/datasets/docs/v2/api/rest-api/
-3. Diamond https://github.com/bbuchfink/diamond
-5. Foldseek https://github.com/steineggerlab/foldseek
-
 ## Project Documentation READMEs
 1. General and evaluation scripts [here](ReadMe.md)
 2. NCBI annotation [here](ncbi_annotation/ReadMe.md)
@@ -32,3 +25,9 @@ Proteome annotation was done in python via NCBI download [2], Diamond protein se
 4. Diamond results evaluation [here](diamond_protein_sequence_alignment/ReadMe.md)
 5. Foldseek [here](foldseek_annotation/ReadMe.md)
 6. Genome download from NCBI [here](genome_annotation/ReadMe.md)
+
+## References
+1. Rappsilber Laboratory https://www.rappsilberlab.org/,  https://github.com/Rappsilber-Laboratory
+2. NCBI Datasets v2 REST API https://www.ncbi.nlm.nih.gov/datasets/docs/v2/api/rest-api/
+3. Diamond https://github.com/bbuchfink/diamond
+5. Foldseek https://github.com/steineggerlab/foldseek
