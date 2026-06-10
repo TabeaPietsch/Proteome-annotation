@@ -7,11 +7,13 @@ sheet in the excel file.
 The results will be saved as one tsv file per fasta file, containing the unannotated accessions.
 
 ### Command line usage:
--f --fastafile
-    Enter one or more paths of your input fasta files, separated by spaces.
--e --excelfile
-    Enter the path to your excel file.
--n --name
+-f --fastafile  
+    Enter one or more paths of your input fasta files, separated by spaces.  
+    
+-e --excelfile  
+    Enter the path to your excel file.  
+    
+-n --name  
     Enter the name of the column containing the query accessions to be compared with the accessions from the fasta file
     (">WP..." at the start of the header within the fasta files, "WP..." in your excel file.)
     Please use parantheses for the column name if it contains spaces.
@@ -22,9 +24,10 @@ The results will be saved as one tsv file per fasta file, containing the unannot
 This script returns a tsv file containing all accessions ("WP..") found in the input fasta file.
 
 ### Command line usage:
--i --input
-    Enter the path of the wanted fasta file.
--o --output
+-i --input  
+    Enter the path of the wanted fasta file.  
+    
+-o --output  
     Enter a name for your output tsv file.
 
 
